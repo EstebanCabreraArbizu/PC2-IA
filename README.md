@@ -4,4 +4,3 @@ Integrantes:
 * Esteban Cabrera
 * Jose Laura
 * Marcelo Guerreo
-* Marco Antonio
